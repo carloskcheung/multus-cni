@@ -1,4 +1,5 @@
 ![multus-cni Logo](https://github.com/Intel-Corp/multus-cni/blob/master/doc/images/Multus.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmultus-cni.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmultus-cni?ref=badge_shield)
 
 ### Newest Multus Version v2.1(Kubernetes Network Plumbing working group- reference meta plugin) will be merged to master from dev branch(network-plumbing-working-group-crd-change). For more info - refer : [Multus v2.1 readme.md](https://github.com/intel/multus-cni/tree/dev/network-plumbing-working-group-crd-change#kubernetes-network-custom-resource-definition-de-facto-standard---reference-implementation)
    * [MULTUS CNI plugin](#multus-cni-plugin)
@@ -589,3 +590,7 @@ pod "multus-test" created
 Please fill in the Questions/feedback - [google-form](https://goo.gl/forms/upBWyGs8Wmq69IEi2)!
 ## Contacts
 For any questions about Multus CNI, please reach out on github issue or feel free to contact the developer @kural in our [Intel-Corp Slack](https://intel-corp.herokuapp.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmultus-cni.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmultus-cni?ref=badge_large)
